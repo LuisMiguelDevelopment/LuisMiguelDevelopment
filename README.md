@@ -3,7 +3,8 @@
   I recently embarked on my journey into the world of software development, and I'm enthusiastic about learning and growing as a junior
   full-stack developer. My goal is to build impactful and efficient web solutions that delight users and solve real-world problems.
 -💻 Tech Stack:
-   😎Front-end: I have hands-on experience with Angular and React, two of the most popular front-end frameworks. I enjoy working with HTML and CSS to create visually appealing and responsive user interfaces.
+   😎Front-end: I have hands-on experience with Angular and React, two of the most popular front-end frameworks. I enjoy working with HTML
+     and CSS to create visually appealing and responsive user interfaces.
    🤩Back-end: I'm familiar with Node.js, which allows me to build server-side applications and handle data effectively.
 -🌱 Learning & Growing:
   As a junior developer, I understand the importance of continuous learning. I'm dedicated to expanding my skill set and staying up-to-date with
