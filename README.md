@@ -27,6 +27,7 @@
 
 
 <h2 align="center">Languages and Tools:</h2>
+
 <p align="center" >
    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" /> </a>
    <a> <img src="https://github.com/DaanDeSmedt/awesome-angular/blob/master/angular.svg" width="50" /> </a>
@@ -39,13 +40,27 @@
    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50" /> </a>
    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" /> </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2 align="center">🔥Streak Stats</h2>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMiguelDevelopment&theme=algolia" alt="LuisMiguelDevelopment" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2 align="center">💻 GitHub Profile Stats</h2>
 <p align="center">
   <img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelDevelopment&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisMiguelDevelopment&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="LuisMiguelDevelopment" height="192px"/>
+</p>
 
 
-
-
+ <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
