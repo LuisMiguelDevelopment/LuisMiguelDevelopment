@@ -37,8 +37,7 @@
    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" /> </a>
    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" /> </a>
    <a> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50" /> </a>
-   <a> <img src=" https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" /> </a>
- 
+   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" /> </a>
 </p>
 <p align="center">
   <img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelDevelopment&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
